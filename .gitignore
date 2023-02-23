@@ -5,3 +5,4 @@ venv/
 results/*.png
 results/*.txt
 processed_data/*.dat
+.*.sw?

@@ -6,7 +6,7 @@ Purpose
 Write me ...
 
 
-Zipf's law
+Basics
 ----------
 
 Write me ...

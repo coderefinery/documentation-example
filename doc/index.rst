@@ -1,17 +1,14 @@
-.. this is a comment, it is not rendered
-   when adding new *.rst files, reference them here
-   in this index.rst for them to be rendered and added to the
-   table of contents
+.. Example documentation master file, created by
+   sphinx-quickstart on Sat Sep 23 20:35:12 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-
-Basics
-==========
+Welcome to Example's documentation!
+===================================
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
-   purpose.rst
-   dependencies.rst
-   usage.rst
-   credit.rst
-   exercises.rst
+   some-feature.md
+   another-feature.md
